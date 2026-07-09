@@ -7,7 +7,6 @@ using namespace std;
 class Solution {
 public:
     int removeCoveredIntervals(vector<vector<int>>& intervals) {
-        // Sort: Start points ascending. If tied, end points descending.
         sort(intervals.begin(), intervals.end(), [](const vector<int>& a, const vector<int>& b) {
             if (a[0] == b[0]) {
                 return a[1] > b[1];
@@ -20,14 +19,10 @@ public:
 
         for (const auto& interval : intervals) {
             int currentEnd = interval[1];
-
-            // If the current interval extends past the maximum end seen so far,
-            // it is NOT covered by any previous interval.
             if (currentEnd > maxEndSoFar) {
                 remainingCount++;
-                maxEndSoFar = currentEnd; // Update the tracking boundary
+                maxEndSoFar = currentEnd; 
             }
-            // If currentEnd <= maxEndSoFar, it is completely covered and ignored.
         }
 
         return remainingCount;
