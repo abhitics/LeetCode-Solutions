@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/Abhishek73555/LeetCode-Solutions/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/Abhishek73555/LeetCode-Solutions/tree/master/0069-sqrtx) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/abhitics/LeetCode-Solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0374-guess-number-higher-or-lower](https://github.com/abhitics/LeetCode-Solutions/tree/master/0374-guess-number-higher-or-lower) |
 | [0658-find-k-closest-elements](https://github.com/abhitics/LeetCode-Solutions/tree/master/0658-find-k-closest-elements) |
 | [0704-binary-search](https://github.com/Abhishek73555/LeetCode-Solutions/tree/master/0704-binary-search) |
 | [1608-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/Abhishek73555/LeetCode-Solutions/tree/master/1608-special-array-with-x-elements-greater-than-or-equal-x) |
@@ -109,4 +110,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/abhitics/LeetCode-Solutions/tree/master/0004-median-of-two-sorted-arrays) |
+## Interactive
+|  |
+| ------- |
+| [0374-guess-number-higher-or-lower](https://github.com/abhitics/LeetCode-Solutions/tree/master/0374-guess-number-higher-or-lower) |
 <!---LeetCode Topics End-->
