@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Abhishek73555/LeetCode-Solutions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/Abhishek73555/LeetCode-Solutions/tree/master/0035-search-insert-position) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Abhishek73555/LeetCode-Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0658-find-k-closest-elements](https://github.com/abhitics/LeetCode-Solutions/tree/master/0658-find-k-closest-elements) |
 | [0704-binary-search](https://github.com/Abhishek73555/LeetCode-Solutions/tree/master/0704-binary-search) |
 | [1288-remove-covered-intervals](https://github.com/Abhishek73555/LeetCode-Solutions/tree/master/1288-remove-covered-intervals) |
 | [1512-number-of-good-pairs](https://github.com/Abhishek73555/LeetCode-Solutions/tree/master/1512-number-of-good-pairs) |
@@ -24,11 +25,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Abhishek73555/LeetCode-Solutions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/Abhishek73555/LeetCode-Solutions/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/Abhishek73555/LeetCode-Solutions/tree/master/0069-sqrtx) |
+| [0658-find-k-closest-elements](https://github.com/abhitics/LeetCode-Solutions/tree/master/0658-find-k-closest-elements) |
 | [0704-binary-search](https://github.com/Abhishek73555/LeetCode-Solutions/tree/master/0704-binary-search) |
 | [1608-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/Abhishek73555/LeetCode-Solutions/tree/master/1608-special-array-with-x-elements-greater-than-or-equal-x) |
 ## Sorting
 |  |
 | ------- |
+| [0658-find-k-closest-elements](https://github.com/abhitics/LeetCode-Solutions/tree/master/0658-find-k-closest-elements) |
 | [1288-remove-covered-intervals](https://github.com/Abhishek73555/LeetCode-Solutions/tree/master/1288-remove-covered-intervals) |
 | [1608-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/Abhishek73555/LeetCode-Solutions/tree/master/1608-special-array-with-x-elements-greater-than-or-equal-x) |
 ## Dynamic Programming
@@ -86,4 +89,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0595-big-countries](https://github.com/Abhishek73555/LeetCode-Solutions/tree/master/0595-big-countries) |
+## Two Pointers
+|  |
+| ------- |
+| [0658-find-k-closest-elements](https://github.com/abhitics/LeetCode-Solutions/tree/master/0658-find-k-closest-elements) |
+## Sliding Window
+|  |
+| ------- |
+| [0658-find-k-closest-elements](https://github.com/abhitics/LeetCode-Solutions/tree/master/0658-find-k-closest-elements) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0658-find-k-closest-elements](https://github.com/abhitics/LeetCode-Solutions/tree/master/0658-find-k-closest-elements) |
 <!---LeetCode Topics End-->
