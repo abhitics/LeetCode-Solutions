@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Abhishek73555/LeetCode-Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/abhitics/LeetCode-Solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0354-russian-doll-envelopes](https://github.com/abhitics/LeetCode-Solutions/tree/master/0354-russian-doll-envelopes) |
+| [0436-find-right-interval](https://github.com/abhitics/LeetCode-Solutions/tree/master/0436-find-right-interval) |
 | [0658-find-k-closest-elements](https://github.com/abhitics/LeetCode-Solutions/tree/master/0658-find-k-closest-elements) |
 | [0704-binary-search](https://github.com/Abhishek73555/LeetCode-Solutions/tree/master/0704-binary-search) |
 | [1260-shift-2d-grid](https://github.com/abhitics/LeetCode-Solutions/tree/master/1260-shift-2d-grid) |
@@ -35,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0278-first-bad-version](https://github.com/abhitics/LeetCode-Solutions/tree/master/0278-first-bad-version) |
 | [0354-russian-doll-envelopes](https://github.com/abhitics/LeetCode-Solutions/tree/master/0354-russian-doll-envelopes) |
 | [0374-guess-number-higher-or-lower](https://github.com/abhitics/LeetCode-Solutions/tree/master/0374-guess-number-higher-or-lower) |
+| [0436-find-right-interval](https://github.com/abhitics/LeetCode-Solutions/tree/master/0436-find-right-interval) |
 | [0658-find-k-closest-elements](https://github.com/abhitics/LeetCode-Solutions/tree/master/0658-find-k-closest-elements) |
 | [0704-binary-search](https://github.com/Abhishek73555/LeetCode-Solutions/tree/master/0704-binary-search) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/abhitics/LeetCode-Solutions/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
@@ -43,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0354-russian-doll-envelopes](https://github.com/abhitics/LeetCode-Solutions/tree/master/0354-russian-doll-envelopes) |
+| [0436-find-right-interval](https://github.com/abhitics/LeetCode-Solutions/tree/master/0436-find-right-interval) |
 | [0658-find-k-closest-elements](https://github.com/abhitics/LeetCode-Solutions/tree/master/0658-find-k-closest-elements) |
 | [1288-remove-covered-intervals](https://github.com/Abhishek73555/LeetCode-Solutions/tree/master/1288-remove-covered-intervals) |
 | [1608-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/Abhishek73555/LeetCode-Solutions/tree/master/1608-special-array-with-x-elements-greater-than-or-equal-x) |
